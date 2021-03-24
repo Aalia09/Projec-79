@@ -69,7 +69,7 @@ body{
   .block2{
 	float: left;
 	width: 80%;
-	padding: 15px;
+	padding: 5px;
 	color: honeydew;
 	font-size: 25px;
 	font-family: cursive;
@@ -109,7 +109,7 @@ body{
 ol.menulist>li
 {
 	padding-bottom:20px;
-}   
+}
 
 .cards {
 	display: flex;
